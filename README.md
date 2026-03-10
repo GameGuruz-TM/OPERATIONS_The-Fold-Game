@@ -8,14 +8,14 @@ Repository name : Fold_Engine
 Description  
 This is my Game
 
-Initialize with README  
+Initialized with README:
 Always ON  
 clean anchor file to build from.
 
 Code
 # <The-Fold-Game>
 Part of the GameGuruz Universal Architecture.
-This repository documents and maintains the <purpose> layer of the system.
+This repository documents and maintains the <Leisure> layer of the system.
 Naming Rules (MANDATORY)
 
 Examples:
@@ -29,14 +29,14 @@ Species_Index	04_BEINGS
 Timeline_Atlas	05_TIMELINES
 Operations_Engine	06_OPERATIONS
 Identity Lock
-Every repo you create must include this footer in the README:
+Every repo created must include this footer in the README:
 
 Code
 This repository is part of the GameGuruz Universal System.
 All structures, patterns, and logic are aligned with the 7‑Pillar Vault Architecture.
-This makes it yours, unmistakably.
+This makes it Mine, yours, unmistakably.
 
-Given everything you’ve been building, the next repo should be:
+Given everything we have been building, the next repo should be:
 
 Design_Gaps_Index
 Purpose:  
